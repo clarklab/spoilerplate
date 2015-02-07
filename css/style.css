@@ -11,6 +11,7 @@ body, h1, h2, h3, h4, h5, h6{font-family: 'Inconsolata', monospace}
 		-webkit-column-count:2;
 		-webkit-column-gap: 4em;
 	}
+  .lg-half-width{width:50%;}
 }
 
 #home .hero{background-size: 50%;}
